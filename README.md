@@ -78,7 +78,7 @@ crypto key generate rsa
 ip ssh version 2
 ```
 
-## bolondos koválygos forrgalomiráynitás *ospfv2*
+## bolondos koválygos forgalomirányitás *ospfv2*
 ```bash
 router ospf 10
 passive-interface g0/0
@@ -93,7 +93,7 @@ ip route 0.0.0.0 0.0.0.0 serial 0/0/0
 
 do wr
 ```
-## klasszicista dinamikus gránát AKA *dhcpv4*
+## klasszicista dinamikus Szent Kézigránát AKA *dhcpv4*
 
 ```bash
 ip dhcp pool STUDENT
