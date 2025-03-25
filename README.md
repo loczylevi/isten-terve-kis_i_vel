@@ -4,12 +4,12 @@
 
 
 <img src="2omb-prayge.gif">
-*in nomine oatris et fili
-cuius regio eius religio
-in medius res deus ex machine
-nomen est omen carpe diem
-divida et impara
-Ervin atyánk mindörökké ámen* 🙏
+*in nomine oatris et fili <br>
+cuius regio eius religio <br>
+in medius res deus ex machine <br>
+nomen est omen carpe diem <br>
+divida et impara <br>
+Ervin atyánk mindörökké ámen* 🙏 <br>
 
 ### interfészek beáll.
 ```bash
