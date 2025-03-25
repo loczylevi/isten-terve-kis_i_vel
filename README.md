@@ -124,5 +124,32 @@ ipv6 ospf 10 area 0
 ex
 
 do wr
+
 ```
+
+spanning-tree mode rapid-pvst 
+
+spanning-tree vlan 1 priority 4096
+spanning-tree vlan 10 priority 4096
+spanning-tree vlan 20 priority 4096
+spanning-tree vlan 99 priority 4096
+
+
+spanning-tree vlan 1 priority 8192
+spanning-tree vlan 10 priority 8192
+spanning-tree vlan 20 priority 8192
+spanning-tree vlan 99 priority 8192
+
+## nem használt portok letiltása (L2 security)
+
+interface range fastEthernet 0/5-24
+shutdown 
+ex
+
+interface range gigabitEthernet 0/1-2
+shutdown 
+ex
+
+
+
 __UWU__
