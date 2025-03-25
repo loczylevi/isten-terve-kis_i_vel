@@ -11,7 +11,7 @@ nomen est omen carpe diem <br>
 divida et impara <br>
 Ervin atyánk mindörökké ámen</i> 🙏 <br>
 
-### interfészek beáll.
+### dynamic interfész beállitás 
 ```bash
 
 en
@@ -38,7 +38,7 @@ no sh
 
 
 
-### alap konfig ssh meg miegymás
+### alap konfig ssh + csipetnyi megbukás
 ```bash
 
 
@@ -78,7 +78,7 @@ crypto key generate rsa
 ip ssh version 2
 ```
 
-## bolondos forrgalomiráynitás *ospfv2*
+## bolondos koválygos forrgalomiráynitás *ospfv2*
 ```bash
 router ospf 10
 passive-interface g0/0
@@ -106,7 +106,7 @@ do wr
 ```
 
 
-## reneszánsz dinyamikus forgalomiráynitás AKA *ospfv3*
+## reneszánsz dinyamikus inkvizíció AKA *ospfv3*
 ```bash
 ipv6 unicast-routing
 
