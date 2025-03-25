@@ -2,8 +2,8 @@
 
 ## bocsánat Nagy __I__ vel az Isten 🙏🙏🙏 in nomine patris et fili 🙏🙏🙏
 
-<img src="Skateboarding Priest" >
 
+<img src="2omb-prayge.gif">
 
 ### interfészek beáll.
 ```bash
